@@ -2,7 +2,7 @@ Title: Inventory Tracker
 Purpose: The purpose of this application is to track inventory parts as well as products that can be comprised of the same inventory parts.
 Author: Eric Trevorrow
 Contact Information: EricTrevorrow@gmail.com
-Date: 1/4/23
+Date: 12/2/21
 IDE: IntelliJ IDEA Edu 2021.1.3
 JDK: Java 11 (version 11.0.11)
 JavaFX Version: Built with JavaFX-SDK-17.0.2.
